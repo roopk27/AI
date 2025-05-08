@@ -9,4 +9,6 @@
 
   # AI Agents
   - An In-depth Survey of Large Language Model-based ArtificialIntelligence Agents - https://arxiv.org/pdf/2309.14365
+  - EXPLORING LARGE LANGUAGE MODEL BASED INTELLIGENT AGENTS: DEFINITIONS, METHODS, AND PROSPECTS - https://arxiv.org/pdf/2401.03428
+  - The Rise and Potential of Large Language Model --https://arxiv.org/pdf/2309.07864
 
