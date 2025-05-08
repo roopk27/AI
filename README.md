@@ -6,3 +6,7 @@
 - Parameter-Efficient Transfer Learning for NLP - https://arxiv.org/abs/1902.00751​
 ​
 - LoRA: Low-Rank Adaptation of Large Language Models - https://arxiv.org/abs/2106.09685
+
+  # AI Agents
+  - An In-depth Survey of Large Language Model-based ArtificialIntelligence Agents - https://arxiv.org/pdf/2309.14365
+
